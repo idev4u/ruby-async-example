@@ -1,0 +1,3 @@
+[submodule "ruby-async-example-backend"]
+	path = ruby-async-example-backend
+	url = https://github.com/idev4u/ruby-async-example-backend
